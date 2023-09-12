@@ -1,0 +1,22 @@
+.aziz{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.btnMore{
+  background-color: white;
+  border: none;
+  color: green;
+}
+
+.btnLess{
+  background-color: white;
+  border: none;
+  color: red;
+}
+
+.add{
+  display: flex;
+  justify-content: flex-end;
+}
